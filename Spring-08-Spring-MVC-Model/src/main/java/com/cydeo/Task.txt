@@ -1,0 +1,8 @@
+1- Create a mentor class with the FirstName,LastName, Age and Gender fields.
+2- Gender should be an "enum"
+3- Create mentor Controller.
+4 - Create sample Mentor class objects.
+5 - Add those objects to model
+6 - Create a HTML page.
+7 - Pass the mentor objects added to model earlier,
+to view and show them in the table on browser.

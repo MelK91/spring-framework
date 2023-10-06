@@ -1,0 +1,5 @@
+POJO's (classes) are saved in the model.
+ - Student.class -> this class doesnt have any dependency
+ nor it is not dependency itself so,
+ there will be no component annotation
+  but it can get lombok annotations
